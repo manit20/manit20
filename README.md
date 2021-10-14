@@ -1,4 +1,4 @@
-- 👋 Hi, I’m Mani76h
-- 👀 I’m interested in coding and reading
-- 🌱 I’m currently learning coding at WhiteHat jr
-- 📫 How to reach me: Email- manitkapoor2011@gmail.com
+- 👋 Hi, I’m Mani76h.
+- 👀 I’m interested in coding and reading.
+- 🌱 I’m currently learning coding at WhiteHat jr.
+- 📫 How to reach me: Email - manitkapoor2011@gmail.com
